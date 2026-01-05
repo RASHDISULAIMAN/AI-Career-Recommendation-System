@@ -7,7 +7,7 @@ for i in range(number_of_courses):
 
 average = total / number_of_courses
 
-if average >= 80:
+if average >= 85:
     career = "Engineering Specialist"
 else:
     career = "Technical Support or Diploma Path"
